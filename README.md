@@ -2,8 +2,6 @@
 
 El modelamiento de sistemas eléctricos consiste en representar circuitos eléctricos mediante ecuaciones matemáticas que describen su comportamiento dinámico. Utilizando leyes fundamentales como la Ley de Ohm, la Ley de Kirchhoff de Corrientes (LKC) y la Ley de Kirchhoff de Voltajes (LKV), es posible obtener modelos que predicen la respuesta de un circuito ante señales de entrada.
 
-
-![Circuito RL]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-9uhBqJBtxb1XmJJ_bEufb_mPTiita-rZeQ&s])
 ---
 
 ## 🔑 Conceptos Clave
@@ -42,8 +40,7 @@ V(t) = L \frac{dI(t)}{dt} + R I(t)
 \frac{I(s)}{V(s)} = \frac{1}{Ls + R}
 ```
 
-![Circuito RL]([https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RL_circuit.svg/320px-RL_circuit.svg.png](https://miro.medium.com/v2/resize:fit:780/1*088A3XxPGgdumtKoib8ToQ.png)
-
+![Circuito RL]([https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RL_circuit.svg/320px-RL_circuit.svg.png])
 ---
 
 ## 📚 Ejemplo 2: Circuito RLC serie
@@ -68,6 +65,6 @@ V(t) = L \frac{d^2q(t)}{dt^2} + R \frac{dq(t)}{dt} + \frac{q(t)}{C}
 
 ---
 
-## 🧩 Conclusión
+## Conclusión
 
 El modelamiento de sistemas eléctricos permite analizar, diseñar y optimizar circuitos y dispositivos que forman parte de sistemas electrónicos y de control. Al traducir componentes eléctricos en modelos matemáticos, se facilita la simulación y predicción del comportamiento ante diversas condiciones. Esta habilidad es esencial en ingeniería eléctrica, electrónica y mecatrónica.
