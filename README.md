@@ -40,7 +40,7 @@ V(t) = L \frac{dI(t)}{dt} + R I(t)
 \frac{I(s)}{V(s)} = \frac{1}{Ls + R}
 ```
 
-![Circuito RL](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RL_circuit.svg/320px-RL_circuit.svg.png)
+![Circuito RL]([https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RL_circuit.svg/320px-RL_circuit.svg.png](https://miro.medium.com/v2/resize:fit:780/1*088A3XxPGgdumtKoib8ToQ.png))
 
 ---
 
