@@ -2,9 +2,11 @@
 
 El modelamiento de sistemas eléctricos consiste en representar circuitos eléctricos mediante ecuaciones matemáticas que describen su comportamiento dinámico. Utilizando leyes fundamentales como la Ley de Ohm, la Ley de Kirchhoff de Corrientes (LKC) y la Ley de Kirchhoff de Voltajes (LKV), es posible obtener modelos que predicen la respuesta de un circuito ante señales de entrada.
 
+
+![Circuito RL]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-9uhBqJBtxb1XmJJ_bEufb_mPTiita-rZeQ&s])
 ---
 
-## 📘 Conceptos Clave
+## 🔑 Conceptos Clave
 
 - **Voltaje (V):** Diferencia de potencial eléctrico entre dos puntos.
 - **Corriente (I):** Flujo de carga eléctrica en un conductor.
@@ -24,7 +26,7 @@ El modelamiento de sistemas eléctricos consiste en representar circuitos eléct
 
 ---
 
-## 🧪 Ejemplo 1: Circuito RL
+## 📚 Ejemplo 1: Circuito RL
 
 **Descripción:** Un circuito en serie con una resistencia R, una inductancia L y una fuente de voltaje \( V(t) \).
 
@@ -40,11 +42,11 @@ V(t) = L \frac{dI(t)}{dt} + R I(t)
 \frac{I(s)}{V(s)} = \frac{1}{Ls + R}
 ```
 
-![Circuito RL]([https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RL_circuit.svg/320px-RL_circuit.svg.png](https://miro.medium.com/v2/resize:fit:780/1*088A3XxPGgdumtKoib8ToQ.png))
+![Circuito RL]([https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RL_circuit.svg/320px-RL_circuit.svg.png](https://miro.medium.com/v2/resize:fit:780/1*088A3XxPGgdumtKoib8ToQ.png)
 
 ---
 
-## 🧪 Ejemplo 2: Circuito RLC serie
+## 📚 Ejemplo 2: Circuito RLC serie
 
 **Descripción:** Un circuito con una resistencia R, una inductancia L y un condensador C en serie con una fuente de voltaje.
 
